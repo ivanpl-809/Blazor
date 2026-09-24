@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj": {}
+    "C:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj": {
+    "C:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj",
+        "projectUniqueName": "C:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj",
         "projectName": "BlazingPizza",
-        "projectPath": "c:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj",
+        "projectPath": "C:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj",
         "packagesPath": "C:\\Users\\ivanp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\obj\\",
+        "outputPath": "C:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivanp\\AppData\\Roaming\\NuGet\\NuGet.Config"

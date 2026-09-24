@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9WG5jkiIN7c=",
+  "dgSpecHash": "FViQjtvZ7zM=",
   "success": true,
-  "projectFilePath": "c:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj",
+  "projectFilePath": "C:\\Users\\ivanp\\Documents\\Git\\DNET\\Blazor\\BlazingPizza\\BlazingPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivanp\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512"
   ],
