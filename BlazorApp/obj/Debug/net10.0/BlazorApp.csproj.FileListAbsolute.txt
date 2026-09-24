@@ -83,3 +83,4 @@ c:\Users\ivanp\Documents\Git\DNET\Blazor\BlazorApp\obj\Debug\net10.0\refint\Blaz
 c:\Users\ivanp\Documents\Git\DNET\Blazor\BlazorApp\obj\Debug\net10.0\BlazorApp.pdb
 c:\Users\ivanp\Documents\Git\DNET\Blazor\BlazorApp\obj\Debug\net10.0\BlazorApp.genruntimeconfig.cache
 c:\Users\ivanp\Documents\Git\DNET\Blazor\BlazorApp\obj\Debug\net10.0\ref\BlazorApp.dll
+c:\Users\ivanp\Documents\Git\DNET\Blazor\BlazorApp\obj\Debug\net10.0\BlazorApp.sourcelink.json
